@@ -1,0 +1,93 @@
+[
+    {
+        "Cédula":"4543306369",
+        "Nombre":"Jordi Alfredo Lucas Salcedo",
+        "Dirección":"Manta Calle 15 ave 2",
+        "Teléfono":"0957302419",
+        "Correo":"JALS20@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"2551312993",
+        "Nombre":"Kevin Isaac Reyes López",
+        "Dirección":"Manta Calle 3 av 11",
+        "Teléfono":"0986114178",
+        "Correo":"krey@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"8896969493",
+        "Nombre":"Julia Rosa Macias Fernandez", 
+        "Dirección":"Manta Calle 5 ave 8",
+        "Teléfono":"0997624183",
+        "Correo":"rosaAzul@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"9103645782",
+        "Nombre":"Ana María López Aldarreaga",
+        "Dirección":"Manta Calle 14 ave 12",
+        "Teléfono":"0979486523",
+        "Correo":"ama45@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"9675418320",
+        "Nombre":"Luis Miguel García Saltos",
+        "Dirección":"Manta Calle 12 ave 4",
+        "Teléfono":"0939946161",
+        "Correo":"luis88@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"8176320945",
+        "Nombre":"Alan Jesús Moreira Quiroz", 
+        "Dirección":"Manta Calle 5 ave 114",
+        "Teléfono":"0933862618",
+        "Correo":"alanM22@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"1936285074",
+        "Nombre":"Ariana Victoria Gomez Ruperti", 
+        "Dirección":"Manta Calle 4 ave 21",
+        "Teléfono":"0923739591",
+        "Correo":"ari15@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"8349152706",
+        "Nombre":"Elisa Ruiz Zambrano", 
+        "Dirección":"Manta Calle 15 ave 10",
+        "Teléfono":"0905677125",
+        "Correo":"er33@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"8561237094",
+        "Nombre":"Lupe Victoria Bravo Cobeña",
+        "Dirección":"Manta Calle 2 ave 12",
+        "Teléfono":"0960602769",
+        "Correo":"lupebravo77@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    },
+    {
+        "Cédula":"4689321057",
+        "Nombre":"Melanie Daniela Mendoza Pincay",
+        "Dirección":"Manta Calle 2 ave 18",
+        "Teléfono":"0991204434",
+        "Correo":"mdmp55@gmail.com",
+        "Curso":"5",
+        "Paralelo":"B"
+    }
+]
+

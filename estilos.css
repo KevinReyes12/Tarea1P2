@@ -1,0 +1,25 @@
+html {
+    color: rgb(124, 192, 144); background-color: rgb(34, 34, 34); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;
+    font-weight: 400;
+    margin: 1;
+}
+h1{
+    font-weight: 200;
+}  
+h2{
+    font-weight: 100;
+}
+ul{
+    color:aliceblue;
+}
+.boton{
+    align-items:center;
+    background-color: rgb(124, 192, 144);
+    border-radius: 5px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    height: 50px;
+    width: 250px;
+}
